@@ -49,8 +49,12 @@ This measurement quantifies the spatial distribution of radiation emitted by the
 ### Summary
 
 The monopole antenna showed stable and reliable performance across the frequency range of 200 MHz to 2200 MHz.
-Return wave measurements maintained consistent strength, and the radiation pattern displayed a typical directional profile, with an average strength of 32 dB.
+Return wave measurements maintained consistent strength, and the radiation pattern displayed a typical directional profile with an average strength of 32 dB.
+The radiation pattern analysis confirmed that the antenna is highly directional, with most energy radiating along its axis.
 
-These results confirm the monopole antenna’s efficient radiation characteristics and suitability for applications requiring wideband coverage and directional transmission.
+These results confirm the monopole antenna’s efficient radiation characteristics and suitability for applications requiring wideband coverage and directional transmission such as radar and communication systems.
+
+
+
 
 ---
